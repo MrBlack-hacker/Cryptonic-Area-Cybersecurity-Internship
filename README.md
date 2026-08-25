@@ -59,7 +59,7 @@ performing a security assessment of the target environment.
 - SecurityHeaders
 
 📄 **Report:**  
-`01_OSINT_Investigation_and_Security_Assessment.`
+`01_OSINT_Investigation_and_Security_Assessment.pdf`
 
 ---
 
@@ -91,7 +91,7 @@ authorized PortSwigger Web Security Academy laboratory environment.
 - PortSwigger Web Security Academy
 
 📄 **Report:**  
-`02_Web_Authentication_Security_Assessment.`
+`02_Web_Authentication_Security_Assessment.pdf`
 
 ---
 
@@ -119,7 +119,7 @@ and response actions.
 - Incident response recommendations
 
 📄 **Report:**  
-`03_Security_Monitoring_and_Incident_Response.`
+`03_Security_Monitoring_and_Incident_Response.pdf`
 
 ---
 
@@ -163,7 +163,7 @@ I successfully completed the **Cyber Security & Ethical Hacking
 Internship Program** at Cryptonic Area.
 
 📄 **Certificate:**  
-`04_Cryptonic_Area_Internship_Completion_Certificate.`
+`04_Cryptonic_Area_Internship_Completion_Certificate.pdf`
 
 ---
 
